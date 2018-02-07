@@ -1,2 +1,2 @@
 # hello-world
-Just another meme
+Just another repository
